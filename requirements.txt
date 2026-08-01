@@ -2,4 +2,7 @@ ipykernel
 langchain_community
 faiss-cpu
 pypdf
-streamlit
+streamlit 
+langchain-text-splitters
+sentence_transformers
+langchain_huggingface
